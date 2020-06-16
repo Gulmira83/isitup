@@ -5,11 +5,58 @@ data:
   domain: fuchicorp.com
   message: FuchiCorp all services 
 
-- name: fsadykov
-  domain: fsadykov.com
-  message: Farkhod Sadykov all services
+- name: Gulmira83
+  domain: gulmiradesign.com
+  message: Gulmira  all services
 
-- name: csamatov
-  domain: csamatov.com
-  message: Chynguz Samat all services
+- name: Mahsuda
+  domain: maqsudat.net
+  message: Mahsuda all services
 
+- name: mrvgms
+  domain: merv3.com 
+  message: Merve all services
+
+- name: yakishma
+  domain: yakisma.com
+  message: Omer all services
+
+- name: safag05
+  domain: safa-g.com
+  message: Safa  all services
+
+- name: aidinkobonov
+  domain: bishkekdc.com
+  message: Aidin all services
+
+- name: aizada92
+  domain: theaizada.com
+  message: Aizada all services
+
+- name: andriipanchuk
+  domain: cyber-pro.org
+  message: Andri  all services
+
+- name: Vparlar
+  domain: atifparlar.com
+  message: Vedat all services
+
+- name: sezginmutlu
+  domain: devops-chicago.com
+  message: Sezgin  all services
+
+- name: natan1988
+  domain: maksat1988.com
+  message: Maksat  all services
+
+- name: Olga-devops
+  domain: olgaojjeh.com
+  message: Olga DevOps all services
+
+- name: OlgaLuchian 
+  domain: olgaandolga.com
+  message: Olga Luchian  all services
+
+- name: umar832
+  domain: awsumar.com
+  message: Umar  all services
